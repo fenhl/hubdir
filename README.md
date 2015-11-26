@@ -1,3 +1,5 @@
+_**Note**: This document has been replaced by [gitdir](https://github.com/fenhl/gitdir)._
+
 **hubdir** is a system that helps you keep your github repos organized. It is *not* a git workflow, and works with different (but not all) workflows.
 
 This is hubdir version 1.0.0 ([semver](http://semver.org/)). The versioned API is described below, in the section *The system*.
